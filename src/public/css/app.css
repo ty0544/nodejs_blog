@@ -1,0 +1,25 @@
+h1 {
+  color: red; }
+
+h2 {
+  color: blue; }
+
+.search-form {
+  padding: 0 30px; }
+
+.card-course-item {
+  margin-top: 16px; }
+
+.create-form,
+.form-name {
+  padding: 0 20px; }
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px; }
+
+.check-box-select-all-options {
+  width: 140px;
+  margin: 0 16px; }
